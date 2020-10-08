@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/cuttlemaster/password-generator.git"
   },
-  "author": "",
+  "author": "caleb flanagan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cuttlemaster/password-generator/issues"
