@@ -4,7 +4,8 @@
   "description": "simple password generator exercise/project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cuttlemaster/password-generator/issues"
   },
-  "homepage": "https://github.com/cuttlemaster/password-generator#readme"
+  "homepage": "https://github.com/cuttlemaster/password-generator#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
 }
