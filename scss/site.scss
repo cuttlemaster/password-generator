@@ -1,0 +1,34 @@
+@import 'normalize';
+
+// color variables ====================
+$light-purple:  #f5eef8;
+$dark-purple: #6c3483;
+$white: #ffffff;
+$black: #000000;
+
+// constraint styles ====================
+.constraint {
+  margin-top: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 800px;
+}
+
+// default element styles ===================
+h1 {
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+  border-bottom: 5px solid $dark-purple;
+  text-align: center;
+}
+
+h2 { color: $white; }
+
+section {
+  margin-bottom: 25px;
+  padding: 25px;
+}
+
+// background color opt-ins ====================
+.light-purple-bg { background-color: $light-purple; }
+.dark-purple-bg { background-color: $dark-purple; }
