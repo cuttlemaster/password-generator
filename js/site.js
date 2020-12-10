@@ -6,5 +6,8 @@ const symbols = ['!','@','#','$','%','&'];
 document.addEventListener("DOMContentLoaded", () => {
 
   console.log(numbers);
+  console.log(lowercase);
+  console.log(uppercase);
+  console.log(symbols);
 
 });
