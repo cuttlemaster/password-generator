@@ -18,3 +18,5 @@ When developing locally, use `npm run scss` to make sure style changes are compi
 
 ## Live Site
 You can view a working version of the project at [https://quickpass.netlify.app/](https://quickpass.netlify.app/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c788551d-7663-4642-8101-b4ba886c1562/deploy-status)](https://app.netlify.com/sites/quick-pass/deploys)
