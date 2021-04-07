@@ -13,8 +13,8 @@ As any developer knows, a rite of passage when filling out your portfolio is to 
 * Become more proficient with the use of object-orient javascript functions
 * Learn how to copy to a clipboard using javascript
 
-### Local Development Instructions
+## Local Development Instructions
 When developing locally, use `npm run scss` to make sure style changes are compiled with each change.
 
-### Live Site
+## Live Site
 You can view a working version of the project at [https://quickpass.netlify.app/](https://quickpass.netlify.app/).
