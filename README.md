@@ -1,4 +1,4 @@
-# QuickPass
+# InstantPass
 
 As any developer knows, a rite of passage when filling out your portfolio is to build a password generator. I thought I might as well give it an attempt of my own and strengthen some core javascript principles along the way by using nothing but vanilla javascript.
 
