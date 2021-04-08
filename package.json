@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cuttlemaster/password-generator.git"
+    "url": "git+https://github.com/cuttlemaster/instantpass.git"
   },
   "author": "caleb flanagan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cuttlemaster/password-generator/issues"
+    "url": "https://github.com/cuttlemaster/instantpass/issues"
   },
-  "homepage": "https://github.com/cuttlemaster/password-generator#readme",
+  "homepage": "https://github.com/cuttlemaster/instantpass#readme",
   "dependencies": {
     "node-sass": "^4.14.1"
   }
